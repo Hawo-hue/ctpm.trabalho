@@ -1,0 +1,220 @@
+body{
+background-color: black;
+background-repeat: no-repeat;
+background-image: url('file:///C:/Users/idalm/Downloads/Logo-702-PNG-SEM-FUNDO%20(4).png');
+background-size: 1600px 1200px;
+background-position: center;
+
+height: 200vh;
+
+}
+.button{
+background-color:MediumVioletRed;
+color: Linen;
+font-size: 25px;
+border-radius: 2em;
+}
+#ab{
+position: relative;
+left: 590px;
+font-size: 75px;
+font-family: Arial;
+  color: #fff;
+  text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #ff6ec7,
+    0 0 82px #ff6ec7,
+    0 0 92px #ff6ec7,
+    0 0 102px #ff6ec7,
+    0 0 151px #ff6ec7;
+
+}
+.ctpm{
+text-align: center;
+position: relative;
+color: white;
+font-size: 25px;
+border: 0.2rem solid #fff;
+padding: 0.4em;
+box-shadow: 0 0 .2rem #fff,
+              0 0 .2rem #fff,
+              0 0 2rem #ff6ec7,
+              0 0 0.8rem #ff6ec7,
+              0 0 2.8rem #ff6ec7,
+              inset 0 0 1.3rem #ff6ec7;
+width: 800px;
+height: 220px;
+box-sizing: border-box;
+position: relative;
+left: 550px;
+top: 100px;             
+}
+h4{
+color: white;
+text-align: center;
+border: 0.2rem solid #fff;
+  border-radius: 2rem;
+  
+  box-shadow: 0 0 .2rem #fff,
+              0 0 .2rem #fff,
+              0 0 2rem #ff6ec7,
+              0 0 0.8rem #ff6ec7,
+              0 0 2.8rem #ff6ec7,
+              inset 0 0 1.3rem #ff6ec7;
+width: 100px;
+height: 20px;
+position: relative;
+left: 890px;
+
+}
+h2{
+position: relative;
+left: 650px;
+color: #fff;
+  text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #ff6ec7,
+    0 0 82px #ff6ec7,
+    0 0 92px #ff6ec7,
+    0 0 102px #ff6ec7,
+    0 0 151px #ff6ec7;
+}
+.palavras{
+color: white;
+font-size: 30px;
+}
+
+
+
+#ba{
+position: relative;
+top: 150px;
+left: 140px;
+}
+#bb{
+position: relative;
+top: 130px;
+left: 140px;
+}
+#bc{
+position: relative;
+top: 130px;
+left: 140px;
+}
+#bd{
+position: relative;
+top: 130px;
+left: 140px;
+}
+#be{
+position: relative;
+bottom: 68px;
+left: 410px;
+}
+#bf{
+position: relative;
+bottom: 88px;
+left: 410px;
+}
+#bg{
+position: relative;
+bottom: 88px;
+left: 410px;
+}
+#bh{
+position: relative;
+bottom: 88px;
+left: 410px;
+}
+
+#bi{
+position: relative;
+bottom: 284px;
+left: 680px;
+}
+#bj{
+position: relative;
+bottom: 304px;
+left: 680px;
+}
+#bk{
+position: relative;
+bottom: 304px;
+left: 680px;
+}
+#bl{
+position: relative;
+bottom: 304px;
+left: 680px;
+}
+
+#bm{
+position: relative;
+bottom: 498px;
+left: 950px;
+}
+#bn{
+position: relative;
+bottom: 518px;
+left: 950px;
+}
+#bo{
+position: relative;
+bottom: 518px;
+left: 950px;
+}
+#bp{
+position: relative;
+bottom: 518px;
+left: 950px;
+}
+
+#bq{
+position: relative;
+bottom: 712px;
+left: 1220px;
+}
+#br{
+position: relative;
+bottom: 732px;
+left: 1220px;
+}
+#bs{
+position: relative;
+bottom: 732px;
+left: 1220px;
+}
+#bt{
+position: relative;
+bottom: 732px;
+left: 1220px;
+}
+
+
+
+
+#bu{
+position: relative;
+bottom: 926px;
+left: 1520px;
+}
+#bv{
+position: relative;
+bottom: 946px;
+left: 1520px;
+}
+#bw{
+position: relative;
+bottom: 946px;
+left: 1520px;
+}
+#bx{
+position: relative;
+bottom: 946px;
+left: 1520px;
+}
+
